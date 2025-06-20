@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Tu Vu
-description: Assistant professor
+description: Assistant Professor
 img: assets/img/tu.jpg
 importance: 1
 category: faculty
 related_publications: false
-permalink: https://tuvllms.github.io/
+redirect: https://tuvllms.github.io
 
 ---
