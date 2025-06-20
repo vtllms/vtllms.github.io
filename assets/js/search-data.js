@@ -413,7 +413,7 @@ ninja.data = [{
           title: 'Tu Vu',
           description: "Assistant professor",
           section: "People",handler: () => {
-              window.location.href = "/people/tu/";
+              window.location.href = "/https:/tuvllms.github.io/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
