@@ -426,6 +426,11 @@ ninja.data = [{
           description: "a project with a background image and giscus comments",
           section: "People",handler: () => {
               window.location.href = "/people/2_person/";
+            },},{id: "people-person-3-with-very-long-name",
+          title: 'person 3 with very long name',
+          description: "a project that redirects to another website",
+          section: "People",handler: () => {
+              window.location.href = "/people/3_person/";
             },},{id: "people-person-6",
           title: 'person 6',
           description: "a project with no image",
