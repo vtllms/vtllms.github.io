@@ -451,6 +451,11 @@ ninja.data = [{
           description: "with background image",
           section: "People",handler: () => {
               window.location.href = "/people/7_person/";
+            },},{id: "people-person-8",
+          title: 'person 8',
+          description: "an other project with a background image and giscus comments",
+          section: "People",handler: () => {
+              window.location.href = "/people/8_person/";
             },},{id: "people-person-6",
           title: 'person 6',
           description: "a project with no image",
