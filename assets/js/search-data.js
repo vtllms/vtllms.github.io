@@ -416,16 +416,16 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "people-person-6",
+          section: "News",},{id: "people-person-1",
+          title: 'person 1',
+          description: "with background image",
+          section: "People",handler: () => {
+              window.location.href = "/people/1_person/";
+            },},{id: "people-person-6",
           title: 'person 6',
           description: "a project with no image",
           section: "People",handler: () => {
               window.location.href = "/people/rishab/";
-            },},{id: "people-person-1",
-          title: 'person 1',
-          description: "with background image",
-          section: "People",handler: () => {
-              window.location.href = "/people/tu/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
