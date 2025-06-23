@@ -1,6 +1,6 @@
 ---
 layout: page
-name: Thinh Pham
+name: Pin-Jie Lin
 title: PhD student
 description: 
 img: assets/img/4.jpg
