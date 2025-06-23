@@ -409,12 +409,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "people-person-6",
-          title: 'person 6',
-          description: "a project with no image",
-          section: "People",handler: () => {
-              window.location.href = "/people/6_person/";
-            },},{id: "people-person-7",
+          section: "News",},{id: "people-person-7",
           title: 'person 7',
           description: "with background image",
           section: "People",handler: () => {
@@ -439,6 +434,11 @@ ninja.data = [{
           description: "",
           section: "People",handler: () => {
               window.location.href = "/people/pinjie/";
+            },},{id: "people-phd-student",
+          title: 'PhD student',
+          description: "",
+          section: "People",handler: () => {
+              window.location.href = "/people/rishab/";
             },},{id: "people-assistant-professor",
           title: 'Assistant Professor',
           description: "",
