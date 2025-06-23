@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Tu Vu
-description: Assistant Professor
+name: Tu Vu
+title: Assistant Professor
+description: 
 img: assets/img/tu.jpg
 importance: 1
 category: Faculty
