@@ -414,6 +414,11 @@ ninja.data = [{
           description: "",
           section: "People",handler: () => {
               window.location.href = "/people/jing/";
+            },},{id: "people-undergraduate-student",
+          title: 'Undergraduate student',
+          description: "",
+          section: "People",handler: () => {
+              window.location.href = "/people/nguyen/";
             },},{id: "people-masters-student",
           title: 'Masters student',
           description: "",
