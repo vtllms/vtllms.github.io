@@ -3,9 +3,9 @@ layout: page
 name: Nguyen Nguyen
 title: Undergraduate student
 description: 
-img: assets/img/9.jpg
-importance: 10
-category: Undergraduate students
+img: assets/img/6.jpg
+importance: 7
+category: Students
 giscus_comments: false
 redirect: 
 
