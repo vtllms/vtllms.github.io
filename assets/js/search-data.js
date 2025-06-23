@@ -449,9 +449,9 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "People",handler: () => {
               window.location.href = "/people/9_person/";
-            },},{id: "people-tu-vu",
-          title: 'Tu Vu',
-          description: "Assistant Professor",
+            },},{id: "people-assistant-professor",
+          title: 'Assistant Professor',
+          description: "",
           section: "People",handler: () => {
               window.location.href = "/people/tu/";
             },},{id: "projects-project-1",
