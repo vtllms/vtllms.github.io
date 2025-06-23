@@ -1,9 +1,12 @@
 ---
 layout: page
-title: person 8
-description: an other project with a background image and giscus comments
-img: assets/img/9.jpg
-importance: 2
-category: work
-giscus_comments: true
+name: Quyet Do
+title: PhD student
+description: 
+img: assets/img/7.jpg
+importance: 8
+category: PhD students
+giscus_comments: false
+redirect: 
+
 ---
