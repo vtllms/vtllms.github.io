@@ -1,9 +1,12 @@
 ---
 layout: page
-title: person 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+name: Yu-Min Tseng
+title: PhD student
+description: 
+img: assets/img/2.jpg
 importance: 3
-category: work
+category: PhD students
+giscus_comments: false
+redirect: 
+
 ---
