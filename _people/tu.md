@@ -1,6 +1,6 @@
 ---
 layout: page
-title: person 1
+title: Tu Vu
 description: Assistant Professor
 img: assets/img/tu.jpg
 importance: 1
