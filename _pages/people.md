@@ -5,7 +5,7 @@ permalink: /people/
 description: Members of the lab
 nav: true
 nav_order: 1
-display_categories: [Faculty, "Students"]
+display_categories: [Faculty, Students]
 horizontal: false
 ---
 
