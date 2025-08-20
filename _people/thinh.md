@@ -3,8 +3,8 @@ layout: page
 name: Thinh Pham
 title: PhD student
 description: 
-img: assets/img/10.jpg
-importance: 11
+img: assets/img/8.jpg
+importance: 9
 category: Students
 giscus_comments: false
 redirect: 
